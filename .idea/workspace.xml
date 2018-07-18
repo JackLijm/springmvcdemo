@@ -7,47 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="051aad5e-b4b5-4eef-b3f5-568b722d5b32" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/springmvcdemo.iml" afterPath="$PROJECT_DIR$/springmvcdemo.iml" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lijm/springmvc/domain/DemoObj.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lijm/springmvc/web/ch4_3/DemoAnnoController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lijm/springmvc/web/ch4_3/DemoRestController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/logback.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/views/index.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT.war" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/classes/com/lijm/springmvc/MyMvcConfig.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/classes/com/lijm/springmvc/WebInitializer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/classes/com/lijm/springmvc/domain/DemoObj.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/classes/com/lijm/springmvc/web/HelloController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/classes/com/lijm/springmvc/web/ch4_3/DemoAnnoController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/classes/com/lijm/springmvc/web/ch4_3/DemoRestController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/classes/logback.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/classes/views/index.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.5.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.5.3.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.5.3.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/lib/jackson-dataformat-xml-2.5.3.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/lib/jackson-module-jaxb-annotations-2.5.3.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/lib/jcl-over-slf4j-1.7.5.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/lib/jsp-api-2.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/lib/log4j-1.2.16.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/lib/logback-access-1.0.13.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/lib/logback-classic-1.0.13.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/lib/logback-core-1.0.13.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.5.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.1.5.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.1.5.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.1.5.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.1.5.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.1.5.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-4.1.5.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.1.5.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.1.5.RELEASE.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/springmvcdemo-1.0-SNAPSHOT/WEB-INF/lib/stax2-api-3.1.4.jar" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -80,8 +41,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1314">
-              <caret line="96" column="27" lean-forward="false" selection-start-line="96" selection-start-column="27" selection-end-line="96" selection-end-column="27" />
+            <state relative-caret-position="66">
+              <caret line="27" column="36" lean-forward="false" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -531,12 +492,12 @@
       <updated>1531794529549</updated>
       <workItem from="1531794533716" duration="8542000" />
       <workItem from="1531811559828" duration="5443000" />
-      <workItem from="1531875990574" duration="2281000" />
+      <workItem from="1531875990574" duration="2421000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16266000" />
+    <option name="totallyTimeSpent" value="16406000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -851,8 +812,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1314">
-          <caret line="96" column="27" lean-forward="false" selection-start-line="96" selection-start-column="27" selection-end-line="96" selection-end-column="27" />
+        <state relative-caret-position="66">
+          <caret line="27" column="36" lean-forward="false" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
           <folding />
         </state>
       </provider>

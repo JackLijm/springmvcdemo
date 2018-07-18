@@ -1,6 +1,6 @@
-
+/
 springmvcdemo/
 
-target/
-.idea/
-sprinvmvcdemo.iml
+/target/
+/.idea/
+/sprinvmvcdemo.iml
