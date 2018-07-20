@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.context.request.WebRequest;
 import org.springframework.web.servlet.ModelAndView;
 
+//全局异常处理
 @ControllerAdvice
 public class ExceptionHandlerAdvice {
     @ExceptionHandler(value = Exception.class)

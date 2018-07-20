@@ -6,7 +6,7 @@ import org.springframework.web.servlet.ModelAndView;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
+/** 拦截器 ，功能 计算请求响应时间
    @author lijm
  */
 public class DemoIntercepter implements HandlerInterceptor {

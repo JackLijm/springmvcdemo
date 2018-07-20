@@ -13,6 +13,7 @@ import javax.annotation.Resource;
 import java.io.File;
 import java.io.IOException;
 
+//文件上传controller
 @Controller
 public class UploadController {
     @RequestMapping(value = "/upload",method = RequestMethod.POST)
